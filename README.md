@@ -53,15 +53,11 @@ This project was built using:
 
 The project produces two visualizations:
 
-### 1️⃣ Procedural implementation
-Located in `stock_price_forecasting.py`
+### 1. Procedural Implementation
+Located in `images/stock_price_forecasting.png`
 
-!(images/stock_price_forecasting.png)
-
-### 2️⃣ Object-Oriented implementation
-Located in `oop_stock_price_forecasting.py`
-
-!(images/stock_price_forecasting_oop.png)
+### 2. Object-Oriented implementation
+Located in `images/stock_price_forecasting_oop.png`
 
 Both charts display:
 
@@ -73,14 +69,14 @@ Both charts display:
 
 ## ▶️ Installation & How to Run
 
-### 1️⃣ Clone the repository
+### 1. Clone the repository
 
 ```
 git clone <repository-link>
 cd <repository-folder>
 ```
 
-### 2️⃣ (Recommended) Create virtual environment
+### 2. (Recommended) Create virtual environment
 
 `python -m venv venv`
 
