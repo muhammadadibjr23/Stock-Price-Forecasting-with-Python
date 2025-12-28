@@ -37,7 +37,6 @@ This project was built using:
 
 ## 🗂️ Project Structure
 
-```bash
 .
 ├── stock_price_forecasting.py
 ├── oop_stock_price_forecasting.py
@@ -56,12 +55,12 @@ The project produces two visualizations:
 ### 1️⃣ Procedural implementation
 Located in `stock_price_forecasting.py`
 
-![PYPL Forecast](images/pypl_stock_price_forecast.png)
+!(images/stock_price_forecasting.png)
 
 ### 2️⃣ Object-Oriented implementation
 Located in `oop_stock_price_forecasting.py`
 
-![PYPL Forecast OOP](images/pypl_stock_price_forecast_oop.png)
+!(images/stock_price_forecasting_oop.png)
 
 Both charts display:
 
@@ -75,36 +74,34 @@ Both charts display:
 
 ### 1️⃣ Clone the repository
 
-```bash
-git clone <your-repository-link>
+```
+git clone <repository-link>
 cd <repository-folder>
+```
 
 ### 2️⃣ (Recommended) Create virtual environment
 
-```bash
-python -m venv venv
+`python -m venv venv`
 
 Activate:
 
 - Windows
-```bash
-venv\Scripts\activate
+`venv\Scripts\activate`
 
 - macOS / Linux:
-```bash
-source venv/bin/activate
+`source venv/bin/activate`
 
 ### 3️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
+
+`pip install -r requirements.txt`
 
 ### 4️⃣ Run the scripts
 - Procedural version:
-```bash
-python stock_price_forecasting.py
+`python stock_price_forecasting.py`
+
 
 - OOP version:
-python oop_stock_price_forecasting.py
+`python oop_stock_price_forecasting.py`
 
 ---
 
