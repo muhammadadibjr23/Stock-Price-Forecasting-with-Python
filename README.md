@@ -94,11 +94,11 @@ Activate:
 - macOS / Linux:
 `source venv/bin/activate`
 
-### 3️⃣ Install dependencies
+### 3️. Install dependencies
 
 `pip install -r requirements.txt`
 
-### 4️⃣ Run the scripts
+### 4. Run the scripts
 - Procedural version:
 `python stock_price_forecasting.py`
 
