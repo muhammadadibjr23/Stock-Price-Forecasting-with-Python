@@ -102,10 +102,11 @@ Activate:
 
 ### 4. Run the scripts
 - Procedural version:
+
 `python stock_price_forecasting.py`
 
-
 - OOP version:
+
 `python oop_stock_price_forecasting.py`
 
 ---
