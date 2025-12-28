@@ -121,19 +121,6 @@ Therefore:
 
 ---
 
-## 🙌 Acknowledgment
-
-This project was completed as part of the Python training program organized by:
-
-PCI NU Netherlands
-
-under the supervision of:
-
-Dr. Rer. Nat. Trismono Candra Krisna
-Mission Engineer — European Space Agency (ESA), Netherlands.
-
----
-
 ## 📩 Contact
 
 If you would like to discuss this project or provide feedback, feel free to reach out via:
