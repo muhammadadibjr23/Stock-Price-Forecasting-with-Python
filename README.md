@@ -36,7 +36,7 @@ This project was built using:
 ---
 
 ## 🗂️ Project Structure
-
+```
 .
 ├── stock_price_forecasting.py
 ├── oop_stock_price_forecasting.py
@@ -45,6 +45,7 @@ This project was built using:
 └── images/
     ├── pypl_stock_price_forecasting.png
     └── pypl_stock_price_forecasting_oop.png
+```
 
 ---
 
