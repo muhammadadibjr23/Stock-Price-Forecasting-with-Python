@@ -1,4 +1,4 @@
-# Stock Price Forecasting — PayPal (PYPL)
+# Stock Price Forecasting with Python
 
 This repository contains the final project I developed during a training program on **Python Programming Fundamentals and Object-Oriented Programming (OOP)** organized by **PCI NU Netherlands**.
 
