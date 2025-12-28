@@ -89,9 +89,11 @@ cd <repository-folder>
 Activate:
 
 - Windows
+
 `venv\Scripts\activate`
 
 - macOS / Linux:
+
 `source venv/bin/activate`
 
 ### 3️. Install dependencies
