@@ -53,13 +53,13 @@ This project was built using:
 
 The project produces two visualizations:
 
-### 1. Procedural Implementation
+### 1. General Implementation
 Located in `images/stock_price_forecasting.png`
 
 <img width="1400" height="700" alt="pypl_stock_price_forecasting" src="https://github.com/user-attachments/assets/e3dc64ba-3110-4f6a-9b0b-7003515afe00" />
 
 
-### 2. Object-Oriented implementation
+### 2. Object-Oriented Implementation
 Located in `images/stock_price_forecasting_oop.png`
 
 <img width="1400" height="700" alt="pypl_stock_price_forecasting_oop" src="https://github.com/user-attachments/assets/861e1dd9-5d73-40aa-b0d5-5e0bafb50797" />
