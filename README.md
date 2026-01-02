@@ -1,18 +1,15 @@
 <div align="center">
 <h1><b>Stock Price Forecasting with Python</b></h1>
-<a href="https://github.com/zero-911/readme-project-template/header.png">
-    <img src="./img/header.png" alt="readme-project-template">
-</a>
 <p align="justify">This repository contains the final project I developed during a training program on <b>Python Programming Fundamentals and Object-Oriented Programming (OOP)</b> organized by <b>PCI NU Netherlands</b>.</p>
 <p align="justify">The training was supervised by:</p>
 <p align="justify"><b>Dr. Rer. Nat. Trismono Candra Krisna</b></p>
 <p align="justify">Mission Engineer at European Space Agency (ESA), Netherlands.</p>
 </div>
 
-<p align="center">
+<div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/muhammad-adib-b9b0962a6/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
-</p>
+</div>
 
 ## 📌 Project Overview
 
