@@ -11,6 +11,8 @@
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </div>
 
+<br>
+
 ## 📄 Project Overview
 
 The goal of this project is to build a Python program that can:
@@ -23,6 +25,8 @@ The goal of this project is to build a Python program that can:
 In simple terms:
 The program analyzes the last 5 years of stock price movements and predicts the trend for the next 12 months.
 
+<br>
+
 ## 💻 Tech Stack
 
 This project was built using:
@@ -32,6 +36,8 @@ This project was built using:
 - `matplotlib`
 - `scikit-learn` (Linear Regression)
 - `yfinance` — primary data source from Yahoo Finance
+
+<br>
 
 ## 🗂️ Project Structure
 ```
@@ -44,6 +50,8 @@ This project was built using:
     ├── pypl_stock_price_forecasting.png
     └── pypl_stock_price_forecasting_oop.png
 ```
+
+<br>
 
 ## 🎯 Results
 
@@ -60,11 +68,15 @@ Located in `images/stock_price_forecasting_oop.png`
 
 <img width="1400" height="700" alt="pypl_stock_price_forecasting_oop" src="https://github.com/user-attachments/assets/861e1dd9-5d73-40aa-b0d5-5e0bafb50797" />
 
+<br>
+
 Both charts display:
 
 - historical closing prices
 - linear regression trend line
 - one-year price forecast
+
+<br>
 
 ## ⚙️ Installation & How to Run
 
@@ -102,6 +114,8 @@ Activate:
 
 `python oop_stock_price_forecasting.py`
 
+<br>
+
 ## ⚠️ Limitations & Disclaimer
 
 This project uses simple Linear Regression as the forecasting model.
@@ -112,6 +126,8 @@ Therefore:
 - it does not include external economic factors
 - predictions are only illustrative
 - This project is for educational purposes only and should not be used as financial trading advice.
+
+<br>
 
 ## 📩 Contact
 
