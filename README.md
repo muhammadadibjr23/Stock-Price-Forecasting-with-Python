@@ -1,5 +1,8 @@
 <div align="center">
 <h1><b>Stock Price Forecasting with Python</b></h1>
+<a href="https://github.com/zero-911/readme-project-template/header.png">
+    <img src="./img/header.png" alt="readme-project-template">
+</a>
 <p align="justify">This repository contains the final project I developed during a training program on <b>Python Programming Fundamentals and Object-Oriented Programming (OOP)</b> organized by <b>PCI NU Netherlands</b>.</p>
 <p align="justify">The training was supervised by:</p>
 <p align="justify"><b>Dr. Rer. Nat. Trismono Candra Krisna</b></p>
