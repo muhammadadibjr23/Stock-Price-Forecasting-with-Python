@@ -69,6 +69,7 @@ Located in `images/stock_price_forecasting_oop.png`
 <img width="1400" height="700" alt="pypl_stock_price_forecasting_oop" src="https://github.com/user-attachments/assets/861e1dd9-5d73-40aa-b0d5-5e0bafb50797" />
 
 <br>
+<br>
 
 Both charts display:
 
