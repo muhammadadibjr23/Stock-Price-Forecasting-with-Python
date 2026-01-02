@@ -3,7 +3,7 @@
 <p align="justify">This repository contains the final project I developed during a training program on <b>Python Programming Fundamentals and Object-Oriented Programming (OOP)</b> organized by <b>PCI NU Netherlands</b>.</p>
 <p align="justify">The training was supervised by:</p>
 <p align="justify"><b>Dr. Rer. Nat. Trismono Candra Krisna</b>b></p>
-<p>Mission Engineer — European Space Agency (ESA), Netherlands.</p>
+<p align="justify">Mission Engineer — European Space Agency (ESA), Netherlands.</p>
 </div>
 
 <p align="center">
