@@ -11,7 +11,7 @@
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </div>
 
-## 📌 Project Overview
+## 📄 Project Overview
 
 The goal of this project is to build a Python program that can:
 
@@ -51,7 +51,7 @@ This project was built using:
 
 ---
 
-## 📊 Results
+## 🎯 Results
 
 The project produces two visualizations:
 
@@ -75,7 +75,7 @@ Both charts display:
 
 ---
 
-## ▶️ Installation & How to Run
+## ⚙️ Installation & How to Run
 
 ### 1. Clone the repository
 
