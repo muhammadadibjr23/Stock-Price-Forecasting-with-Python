@@ -1,14 +1,13 @@
 <div align="center">
-<h1>Stock Price Forecasting with Python</h1>
-<p align="justify">This repository contains the final project I developed during a training program on **Python Programming Fundamentals and Object-Oriented Programming (OOP)** organized by **PCI NU Netherlands**.</p>
+<h1><b>Stock Price Forecasting with Python</b></h1>
+<p align="justify">This repository contains the final project I developed during a training program on <b>Python Programming Fundamentals and Object-Oriented Programming (OOP)</b> organized by <b>PCI NU Netherlands</b>.</p>
 <p align="justify">The training was supervised by:</p>
-
 <p align="justify">**Dr. Rer. Nat. Trismono Candra Krisna**  
 Mission Engineer — European Space Agency (ESA), Netherlands.</p>
 </div>
 
 <p align="center">
-<a target="_blank_" href="https://www.linkedin.com/in/muhammad-adib-b9b0962a6/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/muhammad-adib-b9b0962a6/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/license/zer0-911/readme-project-template" alt="License"></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/commit-activity/t/zer0-911/readme-project-template" alt="Last Commits"></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/repo-size/zer0-911/readme-project-template" alt="Repo Size"></a>
@@ -28,7 +27,7 @@ The program analyzes the last 5 years of stock price movements and predicts the 
 
 ---
 
-## 🧰 Technologies & Libraries
+## 💻 Tech Stack
 
 This project was built using:
 - `python`
