@@ -8,9 +8,7 @@
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/muhammad-adib-b9b0962a6/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/license/muhammadadibjr23/Stock-Price-Forecasting-with-Python/blob/main/LICENSE" alt="License"></a>
-<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/commit-activity/t/zer0-911/readme-project-template" alt="Last Commits"></a>
-<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/repo-size/zer0-911/readme-project-template" alt="Repo Size"></a>
+<a target="_blank" href=""><img height="20" src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </p>
 
 ## 📌 Project Overview
