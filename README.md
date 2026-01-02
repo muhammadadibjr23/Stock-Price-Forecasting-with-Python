@@ -1,4 +1,5 @@
-# Stock Price Forecasting with Python
+<div align="center">
+<h1>Stock Price Forecasting with Python</h1>
 
 This repository contains the final project I developed during a training program on **Python Programming Fundamentals and Object-Oriented Programming (OOP)** organized by **PCI NU Netherlands**.
 
@@ -7,7 +8,7 @@ The training was supervised by:
 **Dr. Rer. Nat. Trismono Candra Krisna**  
 Mission Engineer — European Space Agency (ESA), Netherlands.
 
----
+</div>
 
 ## 📌 Project Overview
 
