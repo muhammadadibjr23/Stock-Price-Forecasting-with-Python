@@ -1,16 +1,14 @@
 <div align="center">
 <h1>Stock Price Forecasting with Python</h1>
+<p align="justify">This repository contains the final project I developed during a training program on **Python Programming Fundamentals and Object-Oriented Programming (OOP)** organized by **PCI NU Netherlands**.</p>
+<p align="justify">The training was supervised by:</p>
 
-This repository contains the final project I developed during a training program on **Python Programming Fundamentals and Object-Oriented Programming (OOP)** organized by **PCI NU Netherlands**.
-
-The training was supervised by:
-
-**Dr. Rer. Nat. Trismono Candra Krisna**  
-Mission Engineer — European Space Agency (ESA), Netherlands.
+<p align="justify">**Dr. Rer. Nat. Trismono Candra Krisna**  
+Mission Engineer — European Space Agency (ESA), Netherlands.</p>
 </div>
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/muhammad-adib-b9b0962a6/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank_" href="https://www.linkedin.com/in/muhammad-adib-b9b0962a6/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/license/zer0-911/readme-project-template" alt="License"></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/commit-activity/t/zer0-911/readme-project-template" alt="Last Commits"></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/repo-size/zer0-911/readme-project-template" alt="Repo Size"></a>
